@@ -1,0 +1,3 @@
+En esta formación aprenderás los conceptos esenciales de estadística, fundamentales para el campo de la Ciencia de Datos. Luego pasará a la regresión lineal, que le permitirá comprender cómo predecir eficazmente tendencias y modelar relaciones entre variables. 
+----
+Finalmente, explorará los fundamentos del aprendizaje automático, aprenderá cómo construir modelos predictivos y aplicar técnicas modernas de aprendizaje automático para resolver problemas del mundo real.
